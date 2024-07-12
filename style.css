@@ -213,7 +213,7 @@ html , body{
     right: 5%;
 }
 .text-div{
-    height: 15.7vh;
+    height: 15vh;
     position: relative;
     z-index: 9;
     overflow: hidden;
